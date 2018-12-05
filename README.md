@@ -3,7 +3,7 @@ A Variational Autoencoder for face image generation implemented with PyTorch.
 This VAE has been trained on a small dataset as the main interest was to implement a first operationnal VAE.
 ## The dataset
 For this kind of application we dont need to have specific name for each picture so the main issue is to collect picture and the best way is of course Google Images.
-So thinks to a very usefull Plug-in " I'm a Gentleman " I was able to gather different pictures and build my dataset. I resize them in order to make it quicker. 
+So thinks to a very usefull Plug-in " I'm a Gentleman " I was able to gather different pictures and build my dataset. I resize and grayscaled them in order to make it quicker. 
 ## The aim
 Just to clarify again i'm not expecting outstanding average loss which would mean perfect reconstruction. That's why i only train it on 100 Epochs.
 ## The Loss function 
