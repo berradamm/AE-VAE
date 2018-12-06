@@ -3,6 +3,9 @@ An Autocoder for hande-written numbers generation implemented with Pytorch
 ## The dataset
 The most mainstream one : MNIST
 ## Results
+
+![sample_continuous](https://user-images.githubusercontent.com/45148200/49581255-a45c9c00-f951-11e8-9675-69686ef5ad6a.png)
+
 # VAE-Variational_AutoEncoder
 A Variational Autoencoder for face image generation implemented with PyTorch.
 This VAE has been trained on a small dataset as the main interest was to implement a first operationnal VAE.
